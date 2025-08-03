@@ -6,8 +6,6 @@ The Research Agent project leverages the following technologies for development 
 - **IBM Granite Foundation Model**: Advanced NLP model for semantic search, text summarization, and recommendation generation using Retrieval-Augmented Generation (RAG).
 - **IBM Cloud Object Storage (Lite Plan)**: Storage solution for managing datasets and vector indices for efficient document retrieval.
 - **IBM Cloud Lite Services**: Scalable cloud infrastructure for hosting the agent and supporting API integrations.
-- **Python**: Core programming language for data processing and agent logic.
-- **pandas**: Python library for manipulating and analyzing academic metadata (e.g., titles, abstracts).
 - **requests**: Python library for optional API calls to external data sources (e.g., arXiv, PubMed) in production.
 - **Retrieval-Augmented Generation (RAG)**: Technique for combining document retrieval with text generation to provide context-aware responses.
 - **Natural Language Processing (NLP)**: Core methodology for query parsing, summarization, and multilingual support.
